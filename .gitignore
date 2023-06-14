@@ -1,0 +1,72 @@
+# .NET Core
+**/bin/
+**/obj/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio
+*.sw*
+*.[Oo]ut.*
+*.user
+*.suo
+*.cache
+*.ncb
+*.dll
+*.exe
+*.pdb
+*.opendb
+*.VC.db
+*.sdf
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.lib
+*.sbr
+*.scc
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.sln.docstates
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nuget/
+**/packages/
+*.nupkg
+*.pfx
+*.snk
+
+# Others
+_ReSharper*/
+[Tt]est[Rr]esult*/
+*.testsettings
+*.fakes
+*.csproj.user
+*.iobj
+*.jfm
+*.zip
+*.json
+*.json.*
+
+# Visual Studio Code
+.vscode/
